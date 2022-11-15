@@ -3702,9 +3702,9 @@ footer .row {
 .go-top {
     position: fixed;
     bottom: 30px;
-    right: 90px;
+    right: 30px;
     z-index: 600;
-    display: none;  
+    display: none;
 }
 
 .go-top a,
