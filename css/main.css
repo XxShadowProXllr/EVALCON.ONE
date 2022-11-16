@@ -2928,7 +2928,7 @@ html.no-csstransitions .home-content__main {
 
 .clients-outer {
     margin-top: 3.6rem;
-    padding-bottom: 9rem;
+    /*padding-bottom: 9rem;*/
     text-align: center;
     position: relative;
 }

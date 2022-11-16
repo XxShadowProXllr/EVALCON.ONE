@@ -1025,6 +1025,7 @@
     left: 0;
     top: 0;
     display: block;
+    margin: auto;
 }
 
 .slick-track:before, .slick-track:after {
