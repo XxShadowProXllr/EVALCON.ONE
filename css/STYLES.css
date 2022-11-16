@@ -38,7 +38,7 @@
     }
     
     .flip-main .flip-card-inner {
-        box-shadow: 0 0 30px #ffffffe1;
+        box-shadow: 0 0 15px #ffffffe1;
         position: relative;
         transform-style: preserve-3d;
         transition: all 1s ease;
