@@ -1985,6 +1985,12 @@ input::-moz-focus-inner {
     position: relative;
 }
 
+.home-content__buttons #login {
+    color: white;
+    position: relative;
+    bottom: -20px;
+}
+
 .home-content__buttons {
     padding-top: 6rem;
     text-align: left;
@@ -3536,7 +3542,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 
 footer {
-    padding: 9rem 0 6rem;
+    padding: 6rem 0 2rem;
     font-family: "montserrat-light", sans-serif;
     font-size: 15px;
     line-height: 2;
@@ -3585,15 +3591,16 @@ footer .row {
 
 .footer-logo {
     display: block;
-    margin: -.6rem 0 2.0rem 0;
+    margin: -.6rem 0 1rem 0;
     padding: 0;
     outline: 0;
     border: none;
-    width: 85px;
+    /*width: 85px; */
     height: 28px;
-    background: url("https://i.ibb.co/T0HKyHH/LOGO-EVALCON.png") no-repeat center;
+    background: url("https://i.ibb.co/FsRqGYJ/Testlol.png") no-repeat center;
     background-size: 85px 28px;
     font: 0/0 a;
+    zoom: 3;
     text-shadow: none;
     color: transparent;
     -webkit-transition: all 0.3s ease-in-out;
