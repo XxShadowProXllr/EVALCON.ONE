@@ -54,11 +54,17 @@ body {
     margin: 0;
 }
 
+
 /* Oculta la ScrollBar*/
+
+
 /*::-webkit-scrollbar {
     display: none;
 }*/
+
+
 /* Oculta La ScrollBA*/
+
 article,
 aside,
 footer,
@@ -328,7 +334,7 @@ button {
 
 img,
 video {
-    max-width: 100%;
+    max-width: 125%;
     height: auto;
 }
 
