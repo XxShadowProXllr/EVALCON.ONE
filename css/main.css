@@ -2677,7 +2677,7 @@ html.no-csstransitions .home-content__main {
 
 .s-works {
     background: #FFFFFF;
-    padding: 0 0 15rem 0;
+    padding: 0 0 0rem 0;
     min-height: 800px;
     position: relative;
 }
@@ -3600,7 +3600,7 @@ footer .row {
     background: url("https://i.ibb.co/FsRqGYJ/Testlol.png") no-repeat center;
     background-size: 85px 28px;
     font: 0/0 a;
-    zoom: 3;
+    zoom: 2;
     text-shadow: none;
     color: transparent;
     -webkit-transition: all 0.3s ease-in-out;
@@ -3820,4 +3820,9 @@ footer .row {
     .footer-main .right {
         padding-left: 0;
     }
+}
+
+.mapa {
+ 
+
 }
