@@ -465,9 +465,6 @@
         clBackToTop();
 
     })();
-    /*
-    Background Gradients From -- 
-    https://uigradients.com
-    */
+
 
 })(jQuery);
