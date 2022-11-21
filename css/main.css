@@ -1402,7 +1402,7 @@ input::-moz-focus-inner {
 }
 
 .subhead--dark {
-    color: #000000;
+    color: #ffffff;
 }
 
 
@@ -2380,8 +2380,8 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #39b54a;
-    color: #010507;
+    background-color: #000000;
+    color: #ffffff;
     position: relative;
 }
 
@@ -3742,6 +3742,36 @@ footer .row {
 .go-top a:hover,
 .go-top a:focus {
     color: #FFFFFF;
+}
+
+.BUTTON_GID {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    height: 0;
+    line-height: 0;
+    color: #FFFFFF;
+    font-family: Times New Roman;
+    width: 349px;
+    font-size: 21px;
+    font-weight: 300;
+    padding: 24px;
+    background-color: #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #FFFFFF 2px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.BUTTON_GID:hover {
+    background: #34363A;
+    border: dotted #FFFFFF 3px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    text-decoration: none;
 }
 
 

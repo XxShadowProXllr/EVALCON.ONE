@@ -764,4 +764,21 @@ li {
         width: 22px;
         background-size: 22px 34px;
     }
+    .btn {
+        margin: 16px 6px 2px 0;
+        color: #000000;
+        font-weight: bold;
+        display: inline-block;
+        padding: 6px 12px;
+        font-size: 16px;
+        text-align: center;
+        cursor: pointer;
+        outline: 0;
+        float: left;
+        background-color: #000000;
+    }
+    .btn a {
+        color: #000000;
+        text-decoration: none;
+    }
 }
