@@ -28,9 +28,9 @@ Table Of Contents:
 
 :root {
     --primary: rgb(8, 189, 24);
-    --primary-light: #000000;
-    --secondary: #0ee951;
-    --tertiary: #00dabf;
+    --primary-light: rgb(0, 0, 0);
+    --secondary: #00972d;
+    --tertiary: #00ff22;
     --gradient: linear-gradient(to right, #0ee951, #00dabf);
 }
 
