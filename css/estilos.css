@@ -739,6 +739,9 @@ li {
         margin-right: 0;
         margin-left: 0.25rem;
     }
+    .circular--square {
+        border-radius: 100%;
+    }
 }
 
 @media only screen and (max-width: 540px) {
