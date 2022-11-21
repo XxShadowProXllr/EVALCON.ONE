@@ -1,23 +1,24 @@
 ﻿<?php
+$name = $_POST['contactName'];
+$mail = $_POST['contactEmail'];
+$subject = $_POST['contactSubject'];
+$message = $_POST['contactMessage'];
 
-// Replace this with your own email address
-$siteOwnersEmail = 'user@website.com';
+$header = 'From: ' . $mail . " \r\n";
+$header .= "X-Mailer: PHP/" . phpversion() . " \r\n";
+$header .= "Mime-Version: 1.0 \r\n";
+$header .= "Content-Type: text/plain";
 
+$message = "Este mensaje fue enviado por: " . $name . " \r\n";
+$message .= "Su e-mail es: " . $mail . " \r\n";
+$message .= "Teléfono de contacto: " . $subject . " \r\n";
+$message .= "Mensaje: " . $_POST['message'] . " \r\n";
+$message .= "Enviado el: " . date('d/m/Y', time());
 
-if (isset($_POST['enviar'])) {
-// Create the Variable's
-    if(!empty($_POST['contactName']) && !empty($_POST['contactEmail']) && !empty($_POST ['contactSubject'] && !empty($_POST['contactMessage']))) {
-        $name = $_POST['contactName'];
-        $email = $_POST['contactEmail'];
-        $subject =  $_POST['contactSubject'];
-        $contact_message = $_POST['contactMessage'];
-        $header = "From: noreply@example.com" . "\r\n";
-        $header. = "Reply-to: noreply@example.com" . "\r\n";
-        $header. = "X-Mailer: PHP/" . phpversion();
-        $mail = @mail($name,$email,$subject,$contact_message,$header);
-        if ($mail) {
-            echo "<h4>¡Mail Enviado Correctamente!</h4>";
-        }
-    }
-    }
+$para = $mail;
+$asunto = 'Prueba De Envio PHP';
+
+mail($para, $asunto, utf8_decode($message), $header);
+
+header("Location:/index.html");
 ?>
