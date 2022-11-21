@@ -950,7 +950,7 @@ button.btn--large {
 
 .btn--stroke,
 button.btn--stroke {
-    background: transparent !important;
+    background: black !important;
     border: 0.2rem solid #39b54a;
     color: #39b54a;
 }
