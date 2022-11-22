@@ -2898,7 +2898,7 @@ html.no-csstransitions .home-content__main {
         padding-bottom: 0rem;
     }
     .s-works .intro-wrap {
-        padding: 12rem 0 25.2rem;
+        padding: 12rem 0 0rem;
     }
     .works-content {
         margin-top: -25.2rem;
@@ -3825,6 +3825,22 @@ footer .row {
         right: 0;
         bottom: 0;
     }
+}
+
+.container {
+    padding: 20px;
+    background: rgba(7, 20, 1, 0.37);
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.img2 {
+    width: 100%;
+}
+
+.img3 {
+    max-width: 100%;
+    height: auto;
 }
 
 @media only screen and (max-width: 500px) {
