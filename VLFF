@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Mulish:wght@300;900&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="css/base 1.css">
+<link rel="stylesheet" href="css/demo.css">
+<link rel="stylesheet" href="/css/STYLES.css">
+
+<!--<link rel="stylesheet" href="#"> !-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+
+    <!-- Bot Code To Use it And Configuration -->
+    <!-- Código de instalación Cliengo para www.evalcon.one -->
+
+    <script type="text/javascript">
+        (function() {
+            var ldk = document.createElement('script');
+            ldk.type = 'text/javascript';
+            ldk.async = true;
+            ldk.src = 'https://s.cliengo.com/weboptimizer/62290295f2468b002a4d5d56/636bb49cda56c4002aff3400.js?platform=onboarding_modular';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ldk, s);
+        })();
+    </script>
+
+    <!-- Bot de Instalacion Cliengo para www.evalcon.one -->
+
+    <!--- Basic Page Function
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>EVALCON S.A.S</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Responsive Drives 
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/vendor.css">
+    <link rel="stylesheet" href="css/main.css">
+
+    <!-- script
+    ================================================== -->
+    <script src="js/modernizr.js"></script>
+    <script src="js/pace.min.js"></script>
+
+    <!-- favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+
+<body id="top">
+
+    <!-- header
+    ================================================== -->
+    <header class="s-header">
+
+        <div class="header-logo">
+            <a class="site-logo" href="index.html">
+                <img src="images/logo.png" alt="Homepage">
+            </a>
+        </div>
+
+        <nav class="header-nav">
+
+            <a href="#0" class="header-nav__close" title="close"><span>Cerrar</span></a>
+
+            <div class="header-nav__content">
+                <h3>Navegación</h3>
+
+                <ul class="header-nav__list">
+                    <li class="current"><a class="smoothscroll" href="#home" title="home">Pagina Principal</a></li>
+                    <li><a class="smoothscroll" href="#about" title="about">Acerca de nosotros</a></li>
+                    <li><a class="smoothscroll" href="#services" title="services">Beneficios</a></li>
+                    <li><a class="smoothscroll" href="#works" title="works">Servicios</a></li>
+                    <li><a class="smoothscroll" href="#clients" title="clients">Clientes</a></li>
+                    <li><a class="smoothscroll" href="#contact" title="contact">Contactanos</a></li>
+                    <li><a Target="_blank" href="https://loginevalcon.netlify.app/">Iniciar sesión</a></li>
+                    <li><a Target="_blank" href="https://script.google.com/macros/s/AKfycby8YFnWpzvryct2DbhWnb6uz0etQzEEhxzQIxW5xRJa2_TWSOceHpNGX_9RaRGfeT3b/exec">Inspectores</a></li>
+                    <li><a Target="_blank" href="https://script.google.com/macros/s/AKfycbwek3L9CS5BlCpZfbFR164q1MF2uMh-FEInp39W-x-E0lVbQQKOI2nYHEIqBAist6Ip/exec">Cotizaciones</a></li>
+                </ul>
+
+                <p>Somos un Organismo de Inspección (OI) tipo A, cuyo objetivo es realizar actividades de inspeccion conforme a normas técnicas obligatorias y voluntarias.</p>
+
+                <ul class="header-nav__social">
+                    <li>
+                        <a Target="_blank" href="https://www.facebook.com/profile.php?id=100077289406894"><i class="fa fa-facebook"></i></a>
+                    </li>
+                    <li>
+                        <a Target="_blank" href="https://twitter.com/EVALCONSAS"><i class="fa fa-twitter"></i></a>
+                    </li>
+                    <li>
+                        <a Target="_blank" href="https://www.instagram.com/evalconsas/"><i class="fa fa-instagram"></i></a>
+                    </li>
+                </ul>
+
+            </div>
+            <!-- end header-nav__content -->
+
+        </nav>
+        <!-- end header-nav -->
+
+        <a class="header-menu-toggle" href="#0">
+            <span class="header-menu-text">Menu</span>
+            <span class="header-menu-icon"></span>
+        </a>
+
+    </header>
+    <!-- end s-header -->
+
+
+    <!-- home
+    ================================================== -->
+    <section id="home" class="s-home target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg" data-natural-width=3000 data-natural-height=2000 data-position-y=center>
+
+        <div class="overlay"></div>
+        <div class="shadow-overlay"></div>
+
+        <div class="home-content">
+
+            <div class="row home-content__main">
+
+                <h3>Bienvenido a EVALCON S.A.S</h3>
+
+                <h1>
+                    Bienvenido a EVALCON S.A.S
+                    <h2> Somos un Organismo de inspección y certificación conforme a RETIE y RETILAP de Colombia. Acreditados por ONAC (Cobertura nacional en Colombia).
+                        <h2>
+                            <br>
+                </h1>
+
+                <div class="home-content__buttons">
+                    <a href="#contact" class="smoothscroll btn btn--stroke" word-wrap: break-word;>
+                        Nuevo Proyecto
+                    </a>
+
+                    <a href="#about" class="smoothscroll btn btn--stroke">
+                        Conoce Mas
+                    </a>
+
+                    <a id="login" target="_blank" href="https://loginevalcon.netlify.app/" class="fa fa-user-circle fa-4x">
+                    </a>
+
+                </div>
+
+            </div>
+
+            <div class="home-content__scroll">
+                <a href="#about" class="scroll-link smoothscroll">
+                    <span>Desplazarse Hacia Abajo</span>
+                </a>
+            </div>
+
+            <div class="home-content__line"></div>
+
+        </div>
+        <!-- end home-content -->
+
+
+        <ul class="home-social">
+            <li>
+                <a Target="_blank" href="https://www.facebook.com/profile.php?id=100077289406894"><i class="fa fa-facebook" aria-hidden="true"></i><span>Facebook</span></a>
+            </li>
+            <li>
+                <a Target="_blank" href="https://twitter.com/EVALCONSAS"><i class="fa fa-twitter" aria-hidden="true"></i><span>Twitter</span></a>
+            </li>
+            <li>
+                <a Target="_blank" href="https://www.instagram.com/evalconsas/"><i class="fa fa-instagram" aria-hidden="true"></i><span>Instagram</span></a>
+            </li>
+        </ul>
+        <!-- end home-social -->
+
+    </section>
+    <!-- end s-home -->
