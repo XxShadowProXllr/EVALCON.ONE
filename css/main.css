@@ -3907,33 +3907,3 @@ footer .row {
         text-align: center;
     }
 }
-
-.RETIE {
-    display: inline-block;
-    position: relative;
-    bottom: -20px;
-}
-
-.RETIE-Contenido {
-    display: none;
-    position: absolute;
-    width: 100%;
-    overflow: auto;
-    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.4);
-}
-
-.RETIE:hover .RETIE-Contenido {
-    display: block;
-}
-
-.RETIE-Contenido a {
-    display: block;
-    color: #000000;
-    padding: 5px;
-    text-decoration: none;
-}
-
-.RETIE-Contenido a:hover {
-    color: #FFFFFF;
-    background-color: #63A355;
-}
